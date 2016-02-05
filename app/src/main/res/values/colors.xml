@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="appBarColor">#956728</color>
+
+    <color name="houseRavenclawColorDark">#0063A2</color>
+    <color name="houseRavenclawColorLight">#BFC6CF</color>
+
+    <color name="houseHufflepuffColorDark">#454143</color>
+    <color name="houseHufflepuffColorLight">#FADA9D</color>
+
+    <color name="houseGryffindorColorDark">#7E2126</color>
+    <color name="houseGryffindorColorLight">#FCD688</color>
+
+    <color name="houseSlytheringColorDark">#1D4138</color>
+    <color name="houseSlytheringColorLight">#DADDE1</color>
+</resources>

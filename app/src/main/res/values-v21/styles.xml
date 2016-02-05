@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="AppTheme.Hogwarts" parent="Theme.AppCompat.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="colorPrimary">@color/houseGryffindorColorDark</item>
+        <item name="colorAccent">@color/houseGryffindorColorLight</item>
+        <item name="colorPrimaryDark">@color/houseHufflepuffColorDark</item>
+        <item name="android:colorForeground">@color/houseSlytheringColorLight</item>
+        <item name="android:statusBarColor">?attr/colorPrimary</item>
+    </style>
+</resources>
