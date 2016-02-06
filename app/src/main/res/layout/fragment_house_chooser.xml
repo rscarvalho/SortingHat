@@ -8,10 +8,10 @@
     tools:context=".HouseChooserFragment">
     <ImageView
         android:contentDescription="@string/sorting_hat_description"
-        android:src="@drawable/sorting_hat1"
+        android:src="@drawable/crest_hogwarts"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:id="@+id/sorting_hat_img"/>
+        android:id="@+id/crest_image"/>
 
     <TextView
         android:text="@string/house_name_default"
