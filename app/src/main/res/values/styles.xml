@@ -1,8 +1,5 @@
 <resources>
+    <style name="AppTheme.Hogwarts.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar"/>
 
-    <!-- Base application theme. -->
-    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
-        <!-- Customize your theme here. -->
-    </style>
-
+    <style name="AppTheme.Hogwarts.PopupOverlay" parent="ThemeOverlay.AppCompat.Light"/>
 </resources>

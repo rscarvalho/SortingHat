@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">SortingHat</string>
+    <string name="app_name">Sorting Hat</string>
 
     <string name="house_slytherin">Slytherin</string>
     <string name="house_gryffindor">Gryffindor</string>
@@ -9,4 +9,6 @@
     <string name="sort_button_text">Sort!</string>
     <string name="house_name_default">Click "Sort" for house...</string>
     <string name="sorting_hat_description">Sorting Hat or house</string>
+    <string name="title_activity_spots_selection">SpotsSelectionActivity</string>
+    <string name="spots_label">Number of Spots</string>
 </resources>
