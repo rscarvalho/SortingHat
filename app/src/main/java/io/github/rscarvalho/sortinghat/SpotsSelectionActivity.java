@@ -1,4 +1,4 @@
-package rscarvalho.bitbucket.org.sortinghat;
+package io.github.rscarvalho.sortinghat;
 
 import android.content.Intent;
 import android.os.Bundle;
@@ -13,7 +13,7 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
 
-import rscarvalho.bitbucket.org.sortinghat.data.HogwartsHouse;
+import io.github.rscarvalho.sortinghat.data.HogwartsHouse;
 
 public class SpotsSelectionActivity extends AppCompatActivity {
   private int numberOfSpots = 0;

@@ -1,4 +1,4 @@
-package rscarvalho.bitbucket.org.sortinghat;
+package io.github.rscarvalho.sortinghat;
 
 import org.junit.Test;
 

@@ -1,6 +1,6 @@
-package rscarvalho.bitbucket.org.sortinghat.data;
+package io.github.rscarvalho.sortinghat.data;
 
-import rscarvalho.bitbucket.org.sortinghat.R;
+import io.github.rscarvalho.sortinghat.R;
 
 public enum HogwartsHouse {
   GRYFFINDOR(R.string.house_gryffindor, R.drawable.crest_gryffindor, R.raw.clip_gryffindor),

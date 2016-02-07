@@ -1,4 +1,4 @@
-package rscarvalho.bitbucket.org.sortinghat;
+package io.github.rscarvalho.sortinghat;
 
 import android.os.Bundle;
 import android.support.v4.app.NavUtils;

@@ -1,4 +1,4 @@
-package rscarvalho.bitbucket.org.sortinghat;
+package io.github.rscarvalho.sortinghat;
 
 import android.app.Fragment;
 import android.media.MediaPlayer;
@@ -14,8 +14,8 @@ import android.widget.ImageView;
 import java.util.ArrayList;
 import java.util.Stack;
 
-import rscarvalho.bitbucket.org.sortinghat.data.HogwartsHouse;
-import rscarvalho.bitbucket.org.sortinghat.media.HouseClipPlayer;
+import io.github.rscarvalho.sortinghat.data.HogwartsHouse;
+import io.github.rscarvalho.sortinghat.media.HouseClipPlayer;
 
 public class HouseChooserFragment extends Fragment {
   private final View.OnClickListener sortButtonClickListener = new SortButtonClickListener();

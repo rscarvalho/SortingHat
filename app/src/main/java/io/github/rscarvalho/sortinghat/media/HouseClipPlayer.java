@@ -1,4 +1,4 @@
-package rscarvalho.bitbucket.org.sortinghat.media;
+package io.github.rscarvalho.sortinghat.media;
 
 import android.content.Context;
 import android.media.MediaPlayer;
@@ -7,7 +7,7 @@ import android.os.AsyncTask;
 import java.util.Timer;
 import java.util.TimerTask;
 
-import rscarvalho.bitbucket.org.sortinghat.data.HogwartsHouse;
+import io.github.rscarvalho.sortinghat.data.HogwartsHouse;
 
 public class HouseClipPlayer extends AsyncTask<HogwartsHouse, Void, Void> implements MediaPlayer.OnCompletionListener {
   private final Context context;

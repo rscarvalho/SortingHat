@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<manifest package="rscarvalho.bitbucket.org.sortinghat"
+<manifest package="io.github.rscarvalho.sortinghat"
           xmlns:android="http://schemas.android.com/apk/res/android">
 
     <application
@@ -9,14 +9,14 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme.Hogwarts">
         <activity
-            android:name=".HouseChooserActivity"
+            android:name="io.github.rscarvalho.sortinghat.HouseChooserActivity"
             android:screenOrientation="portrait">
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
-                android:value=".SpotsSelectionActivity"/>
+                android:value="io.github.rscarvalho.sortinghat.SpotsSelectionActivity"/>
         </activity>
         <activity
-            android:name=".SpotsSelectionActivity"
+            android:name="io.github.rscarvalho.sortinghat.SpotsSelectionActivity"
             android:label="@string/title_activity_spots_selection"
             android:screenOrientation="portrait"
             android:theme="@style/AppTheme.Hogwarts">

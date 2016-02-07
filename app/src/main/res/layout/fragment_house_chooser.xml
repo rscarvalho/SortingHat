@@ -4,7 +4,7 @@
               android:orientation="vertical"
               android:layout_width="match_parent"
               android:layout_height="match_parent"
-              tools:context="rscarvalho.bitbucket.org.sortinghat.HouseChooserActivity">
+              tools:context="io.github.rscarvalho.sortinghat.HouseChooserActivity">
     <ImageView
         android:contentDescription="@string/sorting_hat_description"
         android:src="@drawable/crest_hogwarts"
