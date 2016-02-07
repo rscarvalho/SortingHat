@@ -6,7 +6,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:fitsSystemWindows="true"
-    tools:context="rscarvalho.bitbucket.org.sortinghat.MainActivity">
+    tools:context=".HouseChooserActivity">
 
     <android.support.design.widget.AppBarLayout
         android:layout_width="match_parent"
@@ -19,11 +19,12 @@
             android:background="?attr/colorPrimary"/>
     </android.support.design.widget.AppBarLayout>
 
-    <fragment
-        android:id="@+id/house_chooser_fragment"
-        android:name="rscarvalho.bitbucket.org.sortinghat.HouseChooserFragment"
+    <LinearLayout
+        android:id="@+id/house_chooser_fragment_container"
+        android:orientation="vertical"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:gravity="bottom|center"
         app:layout_behavior="@string/appbar_scrolling_view_behavior"
         tools:layout="@layout/fragment_house_chooser"/>
 </android.support.design.widget.CoordinatorLayout>

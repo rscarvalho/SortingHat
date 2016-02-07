@@ -9,6 +9,7 @@
     <string name="sort_button_text">Sort!</string>
     <string name="house_name_default">Click "Sort" for house...</string>
     <string name="sorting_hat_description">Sorting Hat or house</string>
-    <string name="title_activity_spots_selection">SpotsSelectionActivity</string>
+    <string name="title_activity_spots_selection">Sorting Hat</string>
     <string name="spots_label">Number of Spots</string>
+    <string name="start_over_button_label">Start Over</string>
 </resources>
